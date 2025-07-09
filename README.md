@@ -22,7 +22,7 @@ A text-based battle game where players take turns attacking each other until one
 
 ---
 
-### 🌈 Spirograph Art Generator  
+### 🌀 Spirograph Art Generator  
 **Repo:** [spirograph-art](https://github.com/dsalas08/spirograph-art)  
 Generates vibrant spirograph patterns using the `turtle` module with dynamic colors and looped circular drawing. A fun visual way to practice loops and working with RGB color values.
 
