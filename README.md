@@ -30,6 +30,14 @@ Generates vibrant spirograph patterns using the `turtle` module with dynamic col
 
 ---
 
+### 🐢 Turtle Race  
+**Repo:** [turtle-race](https://github.com/dsalas08/turtle-race)  
+A fun racing game built with Python’s `turtle` module. The player places a color bet, and six turtles race across the screen using randomized movements. Includes user input handling, loops, and colorful animation.
+
+**⚙ Skills:** Turtle module, user input, loops, random numbers, modular functions, game state management
+
+---
+
 ## 🚀 Coming Soon
 - Coffee Machine (Functional + OOP)
 - Blackjack
