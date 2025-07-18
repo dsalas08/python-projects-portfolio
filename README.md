@@ -39,6 +39,7 @@ A fun racing game built with Python’s `turtle` module. The player places a col
 ---
 
 🐍 Snake Game
+
 **Repo:** [dsalas08/snake-game](https://github.com/dsalas08/snake-game)
 🎮 Description: A classic Snake Game built using Python's turtle module. The game uses object-oriented programming to manage movement, direction, and collision logic.
 
