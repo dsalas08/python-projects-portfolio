@@ -39,7 +39,7 @@ A fun racing game built with Python’s `turtle` module. The player places a col
 ---
 
 🐍 Snake Game
-📂 Repo: dsalas08/snake-game
+**Repo:** [dsalas08/snake-game](https://github.com/dsalas08/snake-game)
 🎮 Description: A classic Snake Game built using Python's turtle module. The game uses object-oriented programming to manage movement, direction, and collision logic.
 
 🧠 What I Learned:
@@ -59,6 +59,7 @@ Modular project structure and Git/GitHub workflow
 ---
 
 🕹️ Pong Game (Day 22 – 100 Days of Python)
+**Repo:** https://github.com/dsalas08/pong-game
 Description:
 A 2-player Pong clone built using the turtle graphics module. Implements real-time paddle movement, ball physics, collision detection, scoring, and speed increase logic using object-oriented programming.
 
@@ -74,9 +75,6 @@ paddle.py: Paddle class
 ball.py: Ball class with bounce and speed logic
 
 scoreboard.py: Scoreboard class
-
-GitHub:
-🔗 View Project on GitHub
 
 💬 Personal Reflection
 “This project helped me understand how to split game logic into separate class files. I got more comfortable working with object-oriented design, especially how to create behaviors like bouncing and speed increase using methods. It was fun seeing it all come together in a real-time game I could actually play.”
