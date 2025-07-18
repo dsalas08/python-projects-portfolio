@@ -56,6 +56,28 @@ Modular project structure and Git/GitHub workflow
 
 “This game taught me how to break logic into clean classes and how movement works using coordinates and directions. It was one of the most fun projects to build!”
 
+🕹️ Pong Game (Day 22 – 100 Days of Python)
+Description:
+A 2-player Pong clone built using the turtle graphics module. Implements real-time paddle movement, ball physics, collision detection, scoring, and speed increase logic using object-oriented programming.
+
+Skills Used:
+Python, OOP, Classes, Game Loop, Turtle Graphics, Collision Detection, State Reset, Keyboard Control
+
+Files & Structure:
+
+main.py: Game loop and logic
+
+paddle.py: Paddle class
+
+ball.py: Ball class with bounce and speed logic
+
+scoreboard.py: Scoreboard class
+
+GitHub:
+🔗 View Project on GitHub
+
+💬 Personal Reflection
+“This project helped me understand how to split game logic into separate class files. I got more comfortable working with object-oriented design, especially how to create behaviors like bouncing and speed increase using methods. It was fun seeing it all come together in a real-time game I could actually play.”
 
 ## 🚀 Coming Soon
 - Coffee Machine (Functional + OOP)
