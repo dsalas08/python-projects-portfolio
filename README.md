@@ -58,8 +58,8 @@ Modular project structure and Git/GitHub workflow
 
 ---
 
-🕹️ Pong Game (Day 22 – 100 Days of Python)
-**Repo:** https://github.com/dsalas08/pong-game
+🕹️ Pong Game 
+**Repo:** [[pong-game](https://github.com/dsalas08/pong-game)
 Description:
 A 2-player Pong clone built using the turtle graphics module. Implements real-time paddle movement, ball physics, collision detection, scoring, and speed increase logic using object-oriented programming.
 
